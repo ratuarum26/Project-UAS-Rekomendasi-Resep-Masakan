@@ -12,7 +12,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # 1. Memuat Dataset
-path = 'C:/Users/dell/latihan/tugas/text kelompok 9/Data Resep Makanan.csv'
+path = 'C:/Users/dell/latihan/tugas/text kelompok 9/PROJECT UAS PEMROSESAN TEXT/Data Resep Makanan.csv'
 data = pd.read_csv(path)
 
 # 2. Pra-pemrosesan
